@@ -1,0 +1,10 @@
+[project]
+name = "toolbot"
+version = "0.1.0"
+description = "Simple Telegram tools bot by @lbv_dev"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "python-dotenv>=1.2.2",
+    "telebot>=0.0.5",
+]
